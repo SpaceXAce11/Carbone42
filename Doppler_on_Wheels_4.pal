@@ -1,0 +1,17 @@
+Product: BR
+Units: dBZ
+Step: 10
+Scale: 1
+Offset: 0
+
+Color: -40 119 1 165
+Color: -30 55 6 176
+Color:-20 40 162 41
+Color: -1 209 227 210
+Color: 1 230 228 185
+Color: 20 210 147 34
+SolidColor: 30 123 82 74
+Color: 43 235 68 85
+Color: 33 164 3 9
+
+; from https://x.com/LoopsSr/status/1593752298815074304

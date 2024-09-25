@@ -1,0 +1,18 @@
+Product: BR
+Units: dBZ
+Step: 5
+Scale: 1
+Offset: 0
+
+Color: -20 119 1 165
+Color: -15 55 6 176
+Color: -10 114 142 255
+Color: 0 40 162 41
+Color: 14 209 227 210
+Color: 16 230 228 185
+Color: 30 210 147 34
+Color: 40 123 82 74
+Color: 43 164 3 9
+Color: 50 235 68 85
+
+; from https://x.com/i/status/1784249329085001915

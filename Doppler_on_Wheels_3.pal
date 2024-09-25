@@ -1,0 +1,16 @@
+Product: BR
+Units: dBZ
+Step: 7
+Scale: 1
+Offset: 0
+
+Color: -13 119 1 165
+Color: -6 55 6 176
+Color: 8 40 162 41
+Color: 14 209 227 210
+Color: 16 230 228 185
+Color: 29 210 147 34
+Color: 36 123 82 74
+Color: 43 237 61 52
+
+; from http://www.farmfacility.org/img/laura/DOW7eye-084546-4deg.png http://www.farmfacility.org/contents/Laura.php 

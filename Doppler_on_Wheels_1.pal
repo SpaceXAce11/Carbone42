@@ -1,0 +1,20 @@
+Product: BR
+Units: dBZ
+Step: 10
+Scale: 1
+Offset: 0
+
+Color: -20 119 1 165
+Color: -12 119 1 165
+Color: -10 55 6 176
+Color: 0 114 142 255
+Color: 15 40 162 41
+Color: 28 209 227 210
+Color: 30 230 228 185
+Color: 50 210 147 34
+Color: 59 123 82 74
+Color: 60 161 78 94
+Color: 65 222 50 89
+Color: 70 237 61 52
+
+; from https://x.com/TheSteveCop/status/1648859235311144962

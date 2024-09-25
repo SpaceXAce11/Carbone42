@@ -1,0 +1,20 @@
+Product: BR
+Units: dBZ
+Step: 10
+Scale: 1
+Offset: 0
+
+Color: -30 119 1 165
+; (ignore) Color: -12 119 1 165
+Color: -20 55 6 176
+; (ignore) Color: 0 114 142 255
+Color: -10 40 162 41
+Color: 9 209 227 210
+Color: 11 230 228 185
+Color: 20 210 147 34
+Color: 30 123 82 74
+; (ignore) Color: 50 161 78 94
+; (ignore) Color: 65 222 50 89
+Color: 50 237 61 52
+
+; from http://www.farmfacility.org/img/laura/dow7-dp-eye-084546-4.0.png http://www.farmfacility.org/contents/Laura.php
