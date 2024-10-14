@@ -1,6 +1,6 @@
 I have noticed there are a LOT of differnt Carbone42 color tables that are used by the DOW's.
 I have decided to make a bunch of them and upload them. They are free to use and made by me.
-I have used the Carbone42 Reflectivity from Wx Tools for the colors <3
+I have used the Carbone42 Reflectivity from Wx Tools as a refrence for the colors <3
 These are all Base Reflectivity, I will make Base Velocity at some point.
 
 All the colortables have the image/video source that i based the colortable off of, just open it with notepad to see!
