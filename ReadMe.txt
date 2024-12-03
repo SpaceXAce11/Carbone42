@@ -11,3 +11,4 @@ Doppler_on_Wheels_2 source: http://www.farmfacility.org/img/laura/dow7-dp-eye-08
 Doppler_on_Wheels_3 source: http://www.farmfacility.org/img/laura/DOW7eye-084546-4deg.png http://www.farmfacility.org/contents/Laura.php
 Doppler_on_Wheels_4 source: https://x.com/LoopsSr/status/1593752298815074304
 Doppler_on_Wheels_5 source: https://x.com/i/status/1784249329085001915
+Doppler_on_Wheels_6 source: http://www.farmfacility.org/img/gallery/BovinaDow5-loop.gif
